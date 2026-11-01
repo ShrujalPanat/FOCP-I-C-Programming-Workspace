@@ -64,9 +64,7 @@ The following issues were corrected in the working copy:
 
 These are targeted fixes, not a guarantee that every program has been exhaustively tested. Review and test each exercise against your course requirements.
 
-## Reference and attribution
 
-Reference repository: [raghav26csu310-create/FOCP-I_C_Programming_Workspace](https://github.com/raghav26csu310-create/FOCP-I_C_Programming_Workspace)
 
 This working copy is intended for learning and coursework adaptation. Keep attribution where appropriate, follow your institution's academic-integrity rules, and make sure you can explain the code you submit.
 
