@@ -1,0 +1,13 @@
+# Compiled C programs
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Keep source files and documentation tracked.
