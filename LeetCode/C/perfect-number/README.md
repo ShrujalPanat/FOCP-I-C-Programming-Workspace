@@ -21,7 +21,7 @@ Unavailable
 - Language: c
 - Submission Status: Accepted
 - Submitted At: Unavailable
-- Problem URL: https://leetcode.com/problems/perfect-number/submissions/2188403082/
+- Problem URL: https://leetcode.com/problems/perfect-number/
 
 ## Solution
 See [solution.c](./solution-2.c).
@@ -47,4 +47,5 @@ bool checkPerfectNumber(int num) {
 
     return sum == num;
 }
+
 ```
