@@ -1,14 +1,14 @@
 # Reverse String - LeetCode
-**Submitted by:** Unavailable
+**Submitted by:** shrujalpanat
 
 ## Problem Statement
-Unavailable
+Write a function that reverses a string. The input string is given as an array of characters s. You must do this by modifying the input array in-place with O(1) extra memory. Example 1: Input: s = ["h","e","l","l","o"] Output: ["o","l","l","e","h"] Example 2: Input: s = ["H","a","n","n","a","h"] Output: ["h","a","n","n","a","H"] Constraints: 1 <= s.length <= 105 s[i] is a printable ascii character.
 
 ## Examples
-Unavailable
+Example 1: Input: s = ["h","e","l","l","o"] Output: ["o","l","l","e","h"] Example 2: Input: s = ["H","a","n","n","a","h"] Output: ["h","a","n","n","a","H"]
 
 ## Constraints
-Unavailable
+Constraints: 1 <= s.length <= 105 s[i] is a printable ascii character.
 
 ## Input Format
 Unavailable
@@ -19,9 +19,9 @@ Unavailable
 ## Submission Details
 - Platform: LeetCode
 - Language: c
-- Submission Status: Accepted
+- Submission Status: Unknown
 - Submitted At: Unavailable
-- Problem URL: https://leetcode.com/problems/reverse-string/
+- Problem URL: https://leetcode.com/problems/reverse-string/submissions/2188417454/
 
 ## Solution
 See [solution.c](./solution-2.c).
